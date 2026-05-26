@@ -153,7 +153,12 @@ The dashboard provides insights into user preferences and product trends within 
 
 [View Interactive Dashboard]
 https://public.tableau.com/views/FashionRecommendationSystemAnalysis/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+ 
+## Presentation
 
+Project Presentation:
+
+- [Fashion Recommendation System Presentation](presentation/Fashion_Recommendation_System_Presentation.pdf)
 ## Author
 
 Sonia Cherop
