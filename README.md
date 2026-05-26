@@ -158,7 +158,7 @@ https://public.tableau.com/views/FashionRecommendationSystemAnalysis/Dashboard1?
 
 Project Presentation:
 
-- [Fashion Recommendation System Presentation](presentation/Fashion_Recommendation_System_Presentation.pdf)
+- [Fashion Recommendation System Presentation](Fashion Recommendation System.pdf)
 ## Author
 
 Sonia Cherop
