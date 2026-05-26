@@ -118,7 +118,12 @@ fashion-recommendation-system/
 ---
 
 ## Streamlit Application
+A Streamlit web application was developed to demonstrate the recommendation system interactively.
 
+Features:
+- User-based recommendation generation
+- Product recommendation display
+- Simple and user-friendly interface
 Run the application using:
 
 ```bash
@@ -134,6 +139,20 @@ streamlit run app.py
 - Popularity-based recommendations improve robustness for sparse user interactions
 
 ---
+
+## Tableau Dashboard
+
+An interactive Tableau dashboard was created to visualize:
+- Fashion product category distribution
+- Average product ratings across brands
+- Product rating distributions
+
+The dashboard provides insights into user preferences and product trends within the recommendation system.
+
+## Tableau Public Dashboard
+
+[View Interactive Dashboard]
+https://public.tableau.com/views/FashionRecommendationSystemAnalysis/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 ## Author
 
